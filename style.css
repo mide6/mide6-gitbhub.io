@@ -30,8 +30,8 @@ canvas {
 h1 {
   /* Change font here */
   font-family:sans-serif;
-  font-weight:normal;
+  font-weight:BOLD;
   font-size:80px;
-  color:#000000;
+  color:#225;
   text-align:center;
 }
